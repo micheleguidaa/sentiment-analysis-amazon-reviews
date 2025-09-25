@@ -1,0 +1,19 @@
+# Development Dependencies (optional)
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+pytest>=7.0.0
+pre-commit>=3.0.0
+
+# Advanced visualization (optional)
+plotly>=5.15.0
+bokeh>=3.2.0
+
+# Model deployment (optional)
+streamlit>=1.25.0
+gradio>=3.40.0
+
+# MLOps tools (optional)
+wandb>=0.15.0
+tensorboard>=2.13.0
