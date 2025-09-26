@@ -31,6 +31,9 @@ ipywidgets>=8.0.0
 # API Integration
 google-generativeai>=0.3.0
 
+# Environment Variables
+python-dotenv>=1.0.0
+
 # Jupyter Notebook Support
 ipython>=8.0.0
 
