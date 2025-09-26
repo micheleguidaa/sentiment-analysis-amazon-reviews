@@ -1,0 +1,36 @@
+{
+  "dataset_size": 5000,
+  "num_models": 3,
+  "num_classes": 3,
+  "best_model": "TF-IDF",
+  "best_accuracy": 0.7564,
+  "all_models_metrics": [
+    {
+      "Model": "TF-IDF",
+      "Accuracy": 0.7564,
+      "Precision": 0.7708,
+      "Recall": 0.7564,
+      "F1-Score": 0.7624,
+      "Combined_Score": 0.76048
+    },
+    {
+      "Model": "Gemini",
+      "Accuracy": 0.7344,
+      "Precision": 0.7607,
+      "Recall": 0.7344,
+      "F1-Score": 0.737,
+      "Combined_Score": 0.7401800000000001
+    },
+    {
+      "Model": "VADER",
+      "Accuracy": 0.5892,
+      "Precision": 0.5643,
+      "Recall": 0.5892,
+      "F1-Score": 0.5533,
+      "Combined_Score": 0.57704
+    }
+  ],
+  "agreement_all_models": 47.74,
+  "all_correct_percentage": 43.919999999999995,
+  "all_wrong_percentage": 8.38
+}
