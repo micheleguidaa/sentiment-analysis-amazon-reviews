@@ -222,7 +222,6 @@ raw_data/
 processed_data/
 
 # Results and plots
-results/
 plots/
 figures/
 outputs/
