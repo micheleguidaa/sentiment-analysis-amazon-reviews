@@ -8,7 +8,7 @@ This project explores and compares the effectiveness of different approaches to 
 
 * **Rule-based**: VADER Sentiment Analyzer
 * **Traditional ML**: TF-IDF + Logistic Regression
-* **Generative models**: Google Gemini
+* **Generative models**: Google Gemini 2.5-flash-lite
 
 ## 📁 Project Structure
 
