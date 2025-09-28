@@ -19,7 +19,7 @@ sentiment-analysis-amazon-reviews/
 ├── notebooks/                          # Main Jupyter notebooks
 │   ├── sa_amazon_reviews_2class.ipynb     # Binary classification (NEG/POS)
 │   ├── sa_amazon_reviews_3class.ipynb     # 3-class classification (NEG/NEU/POS)
-│   └── sa_amazon_reviews_2class AlessandroSchmitt.ipynb
+│  
 ├── analysis/                           # In-depth analysis notebooks
 │   ├── sa_analysis_2class.ipynb
 │   └── sa_analysis_3class.ipynb
@@ -116,11 +116,6 @@ Results for binary classification generally show higher performance across all m
 * **numpy**: Numerical computing
 * **scikit-learn**: Traditional machine learning
 * **nltk**: Natural Language Processing
-
-### Deep Learning & Transformers
-
-* **PyTorch**: Deep learning framework
-* **Transformers**: Pretrained models (Hugging Face)
 * **Datasets**: Dataset handling
 
 ### Visualization
@@ -153,14 +148,6 @@ The notebooks in the `analysis/` folder include:
 * Model error analysis
 * Detailed performance comparisons
 * Advanced visualizations
-
-## 🚦 Roadmap
-
-* [ ] Implement Transformer models (BERT, RoBERTa)
-* [ ] Automated hyperparameter optimization
-* [ ] Ensemble methods
-* [ ] Aspect-based sentiment analysis
-* [ ] Deploy as a web service
 
 ## 🤝 Contributing
 
